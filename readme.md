@@ -1,2 +1,2 @@
 hello
-i am adding rhis feature from branch-feature
+i am adding this feature from branch-feature
